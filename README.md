@@ -6,7 +6,9 @@
 
 ### The Project has been deployed on 2 Cloud Platforms: Heroku Cloud & Azure cloud
 
-### The Web App is live at: https://website-phishing-gaurav.herokuapp.com/
+### Heroku Web App: https://website-phishing-gaurav.herokuapp.com/
+
+### Azure Web App: https://webphishing.azurewebsites.net/
 
 ---
 ## A glimpse of the Project
